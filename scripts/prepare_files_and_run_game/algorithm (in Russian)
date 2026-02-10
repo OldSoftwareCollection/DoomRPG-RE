@@ -1,0 +1,30 @@
+скрипт для подготовки файлов для запуска Doom RPG
+
+1)
+В директории скрипта создай папку DoomRPG, в ней 2 папки - Game и Temporary
+В папке Temporary - Brew Binary, Desktop Binary и Files
+
+2)
+Скачай бинарник в папку Temporary/Files
+
+Скачать актуальный релиз с пк порта в папку Temporary/Files
+
+3)
+Распаковать архив с бинарником в папку BREW Binary
+
+Распаковать пк релиз в папку Desktop Binary
+
+4)
+Скопировать папку Desktop Binary в корень под названием Game
+
+Из папки BREW Binary файл doomrpg.bar скопировать в папку Game
+
+Запустить BarToZip в папке Game
+
+Запустить DoomRPG
+
+5)
+
+открыть в эксплорере папку думрпг
+
+открыть  дум рпг
