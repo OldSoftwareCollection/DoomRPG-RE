@@ -1,27 +1,29 @@
-https://archive.org/download/doomrpg_brew/doomrpg.zip
-
 I want you to write a script using Kotlin Script language, script will be fow Windows   script should contain these actions:  
 
 1)Create folders:
-In script's directory create Temporary folder with three subfolders - Brew Binary, Desktop Binary and Files
+In script's directory create DoomRPG folder, it contains 2 folders - Game and Temporary
+Temporary folder has 3 subfolders - Brew Binary, Desktop Binary and Files
 
 2)Download necessary files:
 
-from this link
+Download these files
+
 https://archive.org/download/doomrpg_brew/doomrpg.zip
 
-save link to file as brew_binary variable
+https://github.com/Erick194/DoomRPG-RE/releases/latest
 
-https://github.com/Erick194/DoomRPG-RE
+to Temporary/Files
 
-save link to file as desktop_binary variable
+Save paths to downloaded files
 
-into Temporary/Files folder
+first one as brewBinary variable
+
+second one as desktopBinary
 
 3)Extract archives:
-Extract brew_binary to Temporary/Brew Binary
+Extract brewBinary to Temporary/Brew Binary
 
-Extract desktop_binary to Temporary/Desktop Binary
+Extract desktopBinary to Temporary/Desktop Binary
 
 4)Final preparations
 Copy folder Desktop Binary to script's root folder and rename it to Game
