@@ -14,6 +14,8 @@ https://github.com/Erick194/DoomRPG-RE/releases/latest
 
 to Temporary/Files
 
+(link for release from second link should not be hardcoded)
+
 Save paths to downloaded files
 
 first one as brewBinary variable
@@ -33,6 +35,6 @@ Copy file doomrpg.bar from folder Temporary/BREW Binary into Game folder
 Run BarToZip.exe in Game folder
 
 5)Run the game to check everything is okay
-
+Open DoomRPG folder in explorer
 
 Run DoomRPG.exe
